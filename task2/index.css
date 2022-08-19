@@ -1,0 +1,6 @@
+.focused {
+    outline: solid 2px red;
+}
+.input{
+    margin: 10px
+}
